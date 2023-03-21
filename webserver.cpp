@@ -1,5 +1,5 @@
 /**
- * @file main.cpp
+ * @file webserver.cpp
  * @author Ben Brickey
  * @brief Working Web Server - handles client request for existing files, uses virtual memory to map
  * contents of shakespeare, displays environment variables, returns file not found error, program
