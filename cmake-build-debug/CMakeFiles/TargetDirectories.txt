@@ -1,0 +1,3 @@
+/Users/rasputinsgoat/Documents/Coding/CLionProjects/OperatingSystems/Server Project/Wk4TcpServer/cmake-build-debug/CMakeFiles/Wk4TcpServer.dir
+/Users/rasputinsgoat/Documents/Coding/CLionProjects/OperatingSystems/Server Project/Wk4TcpServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rasputinsgoat/Documents/Coding/CLionProjects/OperatingSystems/Server Project/Wk4TcpServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
